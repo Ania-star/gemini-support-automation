@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node/JS
+node_modules/
+npm-debug.log
+
+# Environment
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+config.py

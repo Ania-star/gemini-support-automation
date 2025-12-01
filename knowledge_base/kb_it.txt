@@ -1,0 +1,6 @@
+To resolve VPN issues:
+
+1. Ensure the VPN client is updated.
+2. MFA must be enabled.
+3. For error 720, reset the network adapter.
+4. Contact IT if retries exceed 3.

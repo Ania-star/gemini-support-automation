@@ -1,0 +1,5 @@
+Software Access Rules:
+
+• Jira and Confluence require manager approval.
+• Tableau licenses are requested via the IT portal.
+• Admin rights are restricted to DevOps teams only.

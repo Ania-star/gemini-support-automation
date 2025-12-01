@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "My VPN stopped connecting after update. Error 720.",
+    "label": "IT"
+  },
+  {
+    "id": 2,
+    "text": "How do I request access to Tableau?",
+    "label": "Software"
+  },
+  {
+    "id": 3,
+    "text": "I want to change my benefits.",
+    "label": "HR"
+  },
+  {
+    "id": 4,
+    "text": "My ID badge isn't scanning.",
+    "label": "HR"
+  }
+]
