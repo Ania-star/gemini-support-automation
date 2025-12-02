@@ -43,8 +43,7 @@ A multi-agent system built with Google’s Agent Developer Kit (ADK) and Gemini 
 │ ├── kb_hr.txt
 │ └── kb_software.txt
 ├── tools/
-│ └── search_knowledge_base.js # optional, not used by Python pipeline
-├── requirements.txt
+│ └── search_knowledge_base.js 
 └── README.md
 ```
 ---
